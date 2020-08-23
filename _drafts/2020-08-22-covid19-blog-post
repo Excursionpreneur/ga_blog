@@ -1,7 +1,12 @@
 -------
 layout: "post"
-title: ""
+title: "Home Depot"
 date: 2020-08-22 22:14:00 -700
+categories: jekyll homes
+permalink: /:categories/:year/:month/:title
 ------
 
-Some draft content
+Now is a great time to obtain your first investment property if you are financially ready. 
+In terms of readiness, I do not mean just having funds in the bank. Financial readiness also 
+entails having an understanding about how you will create your own investment oppurtunity. 
+This entails knowing who to talk to, what to ask for, how to plot your course. 
