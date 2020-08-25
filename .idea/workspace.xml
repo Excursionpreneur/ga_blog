@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="97cd1666-8999-443b-ac1c-848a9c19d987" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/2020-08-22-covid19-blog-post" beforeDir="false" afterPath="$PROJECT_DIR$/_drafts/2020-08-22-covid19-blog-post" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +67,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598159039937</updated>
-      <workItem from="1598159041417" duration="2225000" />
+      <workItem from="1598159041417" duration="3699000" />
+      <workItem from="1598336803949" duration="1615000" />
     </task>
     <servers />
   </component>
@@ -82,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2276" y="235" width="877" height="427" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598159562384">

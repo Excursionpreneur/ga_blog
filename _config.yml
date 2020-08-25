@@ -19,3 +19,7 @@ github_username:  Excursionpreneur
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-architect
+plugins_dir:
+  - jekyll-feed
+
